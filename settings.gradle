@@ -1,0 +1,3 @@
+rootProject.name='MVVM Kotlin Example'
+include ':app'
+include ':nativetemplates'
